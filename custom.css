@@ -1,0 +1,172 @@
+.dt-impdt {
+  margin-top: 10px;
+  /* margin-bottom: 10px; */
+}
+
+dd {
+  margin-left: 15px;
+}
+
+/* HEADER START */
+.navbar-image {
+  width: 300px;
+  margin-left: 20px;
+}
+
+.banner-content h1 {
+  margin-top: 20px;
+  font-family: 'Saira Stencil One', cursive;;
+}
+
+.banner-content h5 {
+  margin-top: 40px;
+}
+
+.banner-marquee {
+  background-color: #031657;
+  color: white;
+}
+
+.banner {
+  background-image: url(media/monasbanner2.png);
+  background-size: cover;
+  background-position: 0 -12rem;
+}
+
+.nav-link {
+  color: white
+}
+/* HEADER END */
+
+/* PRESENTER START */
+.title {
+  font-family: "Carrois Gothic", sans-serif;
+}
+
+.appreciation {
+  border: 2px solid #D35DD5;
+  padding: 8px;
+}
+
+.presenter {
+  background-color: #F1F6FF;
+}
+
+/* PRESENTER START */
+
+/* IMPORTANT DATES START */
+.top-content {
+  background-color: #631ECC;
+}
+
+.right-content {
+  background-color: #CFDEFF;
+}
+
+.left-content {
+  background-color: #FFE4DB;
+}
+
+/* IMPORTANT DATES END */
+
+/* SCOPE START */
+.bi-record-circle-fill {
+  font-size: 10px;
+}
+
+.icon-orange i {
+  color: orange;
+}
+
+.icon-violet i {
+  color: violet;
+}
+
+.icon-green i {
+  color: greenyellow;
+}
+
+.icon-red i {
+  color: red;
+}
+
+.scope {
+  padding-bottom: 75px;
+}
+
+.scope, .speaker {
+  background-color: #F1F6FF;
+}
+
+.scope-title {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  color: #1E276D;
+}
+
+/* SCOPE END */
+
+/* KEYNOTE SPEAKERS START */
+.prof-img {
+  width: 150px;
+  border-radius: 100%;
+  margin: 10px 0;
+}
+
+.prof-subtitle {
+  letter-spacing: 8px;
+}
+
+.speaker-card {
+  height: 32rem;
+  width: 75%;
+}
+
+.speaker {
+  padding-bottom: 5rem;
+}
+
+.speaker-card-sub {
+  margin-top: 20px;
+}
+
+.speaker-card-text-1, .speaker-card-text-3 {
+  margin-top: 41px;
+} 
+
+.speaker-card-text-2, .speaker-card-text-4 {
+  margin-top: 23px;
+} 
+/* KEYNOTE SPEAKERS END */
+
+/* WORKSHOP SPEAKERS START */
+.workshop-speaker {
+  margin-bottom: 9rem;
+}
+
+/* WORKSHOP SPEAKERS END */
+
+/* FOOTER START */
+.footer {
+  background-color: #BDC7EA;
+}
+
+.footer-img {
+  width: 80%;
+}
+
+.left-img-1 {
+  margin-top: 8rem;
+}
+
+.right-img {
+  margin-top: 8.5rem;
+  width: 50%
+}
+
+.footer-identity {
+  background-color: #07062D;
+  padding-bottom: 3rem;
+  color: white;
+}
+/* FOOTER END */
